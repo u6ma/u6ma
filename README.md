@@ -12,6 +12,7 @@ Some things about me:
 - Obsidian User.
 - LaTeX User
 - Internet forum troll
+- Magritte Enjoyer
 
 
 "learning is a tough journey, but its well worth it" - a friend of mine, 2022
