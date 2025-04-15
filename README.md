@@ -18,7 +18,7 @@ Some things about me:
 - Python - Beginner;
 - JS - Beginner;
 
-  
--# Contact at vinci845@icloud.com
+
+##### Contact at vinci845@icloud.com
 
 
