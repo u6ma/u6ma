@@ -1,4 +1,4 @@
-# 845 / u6ma
+# 845 / u3b 
 
 ## Hi, I'm Alessandro, ive been learning coding since 2023
 
@@ -12,3 +12,5 @@ Some things about me:
 - LaTeX User
 - Internet forum troll
 - Magritte Enjoyer
+
+Contact at vinci845@icloud.com
