@@ -19,6 +19,6 @@ Some things about me:
 - JS - Beginner;
 
 
-##### Contact at vinci845@icloud.com
+##### Contact at vinci845@icloud.com or u3ab on discord
 
 
