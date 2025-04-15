@@ -6,7 +6,7 @@ Some things about me:
 
 - Student
 - Music Producer (2 years experience)
-- Has Round glasses
+- Has glasses
 - Mac User
 - Obsidian User.
 - LaTeX User
