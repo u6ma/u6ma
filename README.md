@@ -4,4 +4,5 @@ bios are cringe
 
 https://guns.lol/845
 
-[My GitHub stats](https://github-readme-stats.vercel.app/api?username=u6ma)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
