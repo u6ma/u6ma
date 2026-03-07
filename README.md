@@ -48,20 +48,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-PHP                      47 mins             ███████████░░░░░░░░░░░░░░   44.28 % 
-.env file                16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-SourceMap                11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Bash                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 1 hr 46 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-PersonalWebsite          1 hr 46 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 46 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -80,5 +76,5 @@ Svelte                   1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/u6ma/u6ma/main/assets/bar_graph.png)
 
 
- Last Updated on 06/03/2026 19:08:53 UTC
+ Last Updated on 07/03/2026 18:55:55 UTC
 <!--END_SECTION:waka-->
