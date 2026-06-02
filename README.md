@@ -48,21 +48,16 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-JSON                     3 mins              █████████░░░░░░░░░░░░░░░░   36.87 % 
-Luau                     3 mins              █████████░░░░░░░░░░░░░░░░   34.64 % 
-jsonc                    2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
-git ignore               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Volts and steel          4 mins              █████████████░░░░░░░░░░░░   52.33 % 
-Unknown Project          4 mins              ████████████░░░░░░░░░░░░░   47.67 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -82,5 +77,5 @@ Svelte                   1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/u6ma/u6ma/main/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2026 21:48:18 UTC
+ Last Updated on 02/06/2026 21:30:47 UTC
 <!--END_SECTION:waka-->
