@@ -48,16 +48,16 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Markdown                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Nix** 
@@ -77,5 +77,5 @@ JavaScript               1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/u6ma/u6ma/main/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2026 19:58:07 UTC
+ Last Updated on 11/07/2026 19:40:48 UTC
 <!--END_SECTION:waka-->
