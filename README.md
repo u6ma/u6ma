@@ -5,10 +5,6 @@ bios are cringe
 https://guns.lol/845
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2016%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -50,22 +46,42 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     22 mins             █████████████████████░░░░   82.93 % 
+Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Lua                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zed                      22 mins             █████████████████████░░░░   82.93 % 
+VS Code                  4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          22 mins             █████████████████████░░░░   82.93 % 
+plugin-creator-users-ales4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      26 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 14 mins (53.37%)
+
+✍️ 159 lines written by AI, 19 lines written by hand (89.33% AI-written)
+
+🔤 637,352 Input Tokens, 8,059 Output Tokens
+
+💵 $3.43 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+GPT                      159 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 89.33% of written lines came from AI
+📝 Concise Prompter — average 251 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 14.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Nix** 
@@ -85,5 +101,5 @@ JavaScript               1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/u6ma/u6ma/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 20:03:40 UTC
+ Last Updated on 28/07/2026 19:59:59 UTC
 <!--END_SECTION:waka-->
