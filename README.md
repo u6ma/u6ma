@@ -50,42 +50,46 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-JSON                     22 mins             █████████████████████░░░░   82.93 % 
-Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Lua                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+JSON                     22 mins             ███████████████░░░░░░░░░░   60.23 % 
+Markdown                 10 mins             ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Lua                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 
 🔥 Editors: 
-Zed                      22 mins             █████████████████████░░░░   82.93 % 
-VS Code                  4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Zed                      22 mins             ███████████████░░░░░░░░░░   60.23 % 
+Claude Code              10 mins             ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+VS Code                  4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
 
 🐱‍💻 Projects: 
-Unknown Project          22 mins             █████████████████████░░░░   82.93 % 
-plugin-creator-users-ales4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Unknown Project          22 mins             ███████████████░░░░░░░░░░   60.23 % 
+blimp                    10 mins             ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+plugin-creator-users-ales4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
 
 💻 Operating System: 
-Mac                      26 mins             █████████████████████████   100.00 % 
+Mac                      37 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (53.37%)
+⏱ AI Coding Time: 24 mins (66.14%)
 
-✍️ 159 lines written by AI, 19 lines written by hand (89.33% AI-written)
+✍️ 332 lines written by AI, 19 lines written by hand (94.59% AI-written)
 
-🔤 637,352 Input Tokens, 8,059 Output Tokens
+🔤 4,034,747 Input Tokens, 30,055 Output Tokens
 
-💵 $3.43 Estimated AI Cost This Week
+💵 $13.95 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
-GPT                      159 lines           █████████████████████████   100.00 % 
+Sonnet                   173 lines           █████████████░░░░░░░░░░░░   52.11 % 
+GPT                      159 lines           ████████████░░░░░░░░░░░░░   47.89 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.33% of written lines came from AI
-📝 Concise Prompter — average 251 characters per prompt
+🤖 AI-Driven — 94.59% of written lines came from AI
+📝 Concise Prompter — average 255 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 14.97% of changed lines were hand-edited
+🚀 High AI Trust — 7.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Nix** 
@@ -105,5 +109,5 @@ JavaScript               1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/u6ma/u6ma/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 20:00:45 UTC
+ Last Updated on 31/07/2026 20:02:59 UTC
 <!--END_SECTION:waka-->
