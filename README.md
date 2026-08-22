@@ -50,16 +50,21 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     1 hr 4 mins         ███████████████████████░░   93.23 % 
+CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Image (svg)              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+shell script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zed                      1 hr 9 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+genix                    50 mins             ██████████████████░░░░░░░   72.94 % 
+genixnew                 18 mins             ███████░░░░░░░░░░░░░░░░░░   27.06 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -85,5 +90,5 @@ JavaScript               1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/u6ma/u6ma/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 19:06:06 UTC
+ Last Updated on 22/08/2026 18:57:46 UTC
 <!--END_SECTION:waka-->
