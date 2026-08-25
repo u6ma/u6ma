@@ -5,7 +5,7 @@ bios are cringe
 https://guns.lol/845
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2049%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2046%20mins-blue?style=flat)
 
@@ -13,7 +13,7 @@ https://guns.lol/845
 
 **🐱 My GitHub Data** 
 
-> 📦 13.4 kB Used in GitHub's Storage 
+> 📦 13.5 kB Used in GitHub's Storage 
  > 
 > 🏆 55 Contributions in the Year 2026
  > 
@@ -50,46 +50,46 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Markdown                 4 hrs 43 mins       ██████████████████░░░░░░░   73.33 % 
-HTML                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-C                        30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+HTML                     1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   36.75 % 
+Markdown                 1 hr 13 mins        █████████░░░░░░░░░░░░░░░░   35.13 % 
+C                        30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+JavaScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+CSS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 43 mins       ██████████████████░░░░░░░   73.33 % 
-Zed                      1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Zed                      2 hrs 15 mins       ████████████████░░░░░░░░░   64.87 % 
+Claude Code              1 hr 13 mins        █████████░░░░░░░░░░░░░░░░   35.13 % 
 
 🐱‍💻 Projects: 
-newgame                  4 hrs 43 mins       ██████████████████░░░░░░░   73.33 % 
-genix                    50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Unknown Project          32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-genixnew                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+newgame                  1 hr 13 mins        █████████░░░░░░░░░░░░░░░░   35.13 % 
+genixnew                 51 mins             ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+genix                    50 mins             ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+Unknown Project          32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
 
 💻 Operating System: 
-Mac                      6 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 43 mins (73.33%)
+⏱ AI Coding Time: 1 hr 13 mins (35.13%)
 
-✍️ 963 lines written by AI, 273 lines written by hand (77.91% AI-written)
+✍️ 153 lines written by AI, 488 lines written by hand (23.87% AI-written)
 
-🔤 2,246,899 Input Tokens, 726,210 Output Tokens
+🔤 614,251 Input Tokens, 137,666 Output Tokens
 
-💵 $121.16 Estimated AI Cost This Week
+💵 $15.71 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 21 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
-Opus                     963 lines           █████████████████████████   100.00 % 
+Opus                     153 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.91% of written lines came from AI
-📝 Concise Prompter — average 115 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 24.41% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 23.87% of written lines came from AI
+📝 Concise Prompter — average 60 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 80.8% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -109,5 +109,5 @@ JavaScript               1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/u6ma/u6ma/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 19:09:39 UTC
+ Last Updated on 25/08/2026 19:08:04 UTC
 <!--END_SECTION:waka-->
