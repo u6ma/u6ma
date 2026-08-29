@@ -13,9 +13,9 @@ https://guns.lol/845
 
 **🐱 My GitHub Data** 
 
-> 📦 16.3 kB Used in GitHub's Storage 
+> 📦 16.7 kB Used in GitHub's Storage 
  > 
-> 🏆 101 Contributions in the Year 2026
+> 🏆 111 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,21 +26,21 @@ https://guns.lol/845
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                46 commits          █████████░░░░░░░░░░░░░░░░   34.85 % 
-🌆 Daytime                54 commits          ██████████░░░░░░░░░░░░░░░   40.91 % 
-🌃 Evening                32 commits          ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+🌞 Morning                56 commits          ██████████░░░░░░░░░░░░░░░   39.44 % 
+🌆 Daytime                54 commits          ██████████░░░░░░░░░░░░░░░   38.03 % 
+🌃 Evening                32 commits          ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Tuesday                  24 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Wednesday                31 commits          ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-Thursday                 34 commits          ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
-Friday                   29 commits          █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Tuesday                  24 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Wednesday                31 commits          █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+Thursday                 34 commits          ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+Friday                   29 commits          █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+Saturday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 
 
@@ -50,22 +50,21 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-HTML                     1 hr 16 mins        ██████████████░░░░░░░░░░░   56.65 % 
-C                        30 mins             ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
-JavaScript               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-CSS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+C                        30 mins             ████████████░░░░░░░░░░░░░   46.85 % 
+JavaScript               14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+HTML                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+CSS                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+C++                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🔥 Editors: 
-Zed                      2 hrs 15 mins       █████████████████████████   100.00 % 
+Zed                      1 hr 5 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-genixnew                 51 mins             ██████████░░░░░░░░░░░░░░░   38.16 % 
-genix                    50 mins             █████████░░░░░░░░░░░░░░░░   37.52 % 
-Unknown Project          32 mins             ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+Unknown Project          32 mins             █████████████░░░░░░░░░░░░   50.09 % 
+genixnew                 32 mins             ████████████░░░░░░░░░░░░░   49.91 % 
 
 💻 Operating System: 
-Mac                      2 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -91,5 +90,5 @@ Svelte                   1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/u6ma/u6ma/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 01:49:39 UTC
+ Last Updated on 29/08/2026 21:03:59 UTC
 <!--END_SECTION:waka-->
