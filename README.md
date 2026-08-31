@@ -50,21 +50,19 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-C                        30 mins             ████████████░░░░░░░░░░░░░   46.85 % 
-JavaScript               14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-HTML                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-CSS                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-C++                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+JavaScript               14 mins             ███████████░░░░░░░░░░░░░░   44.69 % 
+HTML                     11 mins             █████████░░░░░░░░░░░░░░░░   34.90 % 
+CSS                      6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 🔥 Editors: 
-Zed                      1 hr 5 mins         █████████████████████████   100.00 % 
+Zed                      32 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          32 mins             █████████████░░░░░░░░░░░░   50.09 % 
-genixnew                 32 mins             ████████████░░░░░░░░░░░░░   49.91 % 
+genixnew                 32 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
+Mac                      32 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -90,5 +88,5 @@ Svelte                   1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/u6ma/u6ma/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 21:21:26 UTC
+ Last Updated on 31/08/2026 22:58:02 UTC
 <!--END_SECTION:waka-->
