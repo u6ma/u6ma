@@ -50,19 +50,16 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-JavaScript               14 mins             ███████████░░░░░░░░░░░░░░   44.69 % 
-HTML                     11 mins             █████████░░░░░░░░░░░░░░░░   34.90 % 
-CSS                      6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-genixnew                 32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -88,5 +85,5 @@ Svelte                   1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/u6ma/u6ma/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 22:58:02 UTC
+ Last Updated on 01/09/2026 21:12:09 UTC
 <!--END_SECTION:waka-->
